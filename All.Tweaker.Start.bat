@@ -1,1 +1,0 @@
-Utils\launcher.exe python All.Tweaker.py
